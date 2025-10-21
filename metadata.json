@@ -1,0 +1,7 @@
+{
+  "name": "Allergy Detective",
+  "description": "An application to help users identify potential allergens by cross-referencing ingredients from products that caused reactions. It uses AI to parse ingredient lists and provide information on suspected substances.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
